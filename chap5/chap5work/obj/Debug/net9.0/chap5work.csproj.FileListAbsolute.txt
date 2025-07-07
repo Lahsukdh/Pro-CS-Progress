@@ -1,0 +1,14 @@
+C:\Users\Kusha\repos\csharp\chap5\chap5work\bin\Debug\net9.0\chap5work.exe
+C:\Users\Kusha\repos\csharp\chap5\chap5work\bin\Debug\net9.0\chap5work.deps.json
+C:\Users\Kusha\repos\csharp\chap5\chap5work\bin\Debug\net9.0\chap5work.runtimeconfig.json
+C:\Users\Kusha\repos\csharp\chap5\chap5work\bin\Debug\net9.0\chap5work.dll
+C:\Users\Kusha\repos\csharp\chap5\chap5work\bin\Debug\net9.0\chap5work.pdb
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.AssemblyInfoInputs.cache
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.AssemblyInfo.cs
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.csproj.CoreCompileInputs.cache
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.dll
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\refint\chap5work.dll
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.pdb
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\chap5work.genruntimeconfig.cache
+C:\Users\Kusha\repos\csharp\chap5\chap5work\obj\Debug\net9.0\ref\chap5work.dll

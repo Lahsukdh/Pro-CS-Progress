@@ -1,0 +1,14 @@
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.AssemblyInfoInputs.cache
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.AssemblyInfo.cs
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.csproj.CoreCompileInputs.cache
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\bin\Debug\net9.0\tracker.exe
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\bin\Debug\net9.0\tracker.deps.json
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\bin\Debug\net9.0\tracker.runtimeconfig.json
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\bin\Debug\net9.0\tracker.dll
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\bin\Debug\net9.0\tracker.pdb
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.dll
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\refint\tracker.dll
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.pdb
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\tracker.genruntimeconfig.cache
+C:\Users\Kusha\repos\csharp\chap4projects\scoretracker\tracker\obj\Debug\net9.0\ref\tracker.dll
